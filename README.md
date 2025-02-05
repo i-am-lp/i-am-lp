@@ -17,9 +17,7 @@ I'm actively continuing the development of [KIT](https://github.com/i-am-lp/KIT)
 
 Outside of development, I find enjoyment in knitting, cooking, yoga, and playing with my sweet cat sons Henry and Frog.
 
-**Connect with me:**
-
-[LinkedIn](https://www.linkedin.com/in/laurenaphillips/)
+**Connect with me** on [LinkedIn](https://www.linkedin.com/in/laurenaphillips/)
 
 **Languages and Tools:** <br>
 <a href="https://www.w3schools.com/css/">
