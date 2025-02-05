@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Lauren
 
-### A Full-Stack Developer in Brookly, NY
+### A Full-Stack Developer in Brooklyn, NY
 
 💁‍♀️ **About Me:** 
 
