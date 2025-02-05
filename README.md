@@ -11,7 +11,7 @@ and React, I’m excited to channel my curiosity and drive into creating meaning
 
 💻 **Current Work and Learnings:** 
 
-I'm actively continuing the development of [KIT](https://github.com/i-am-lp/KIT), a way to Keep In Touch with friends near and far through written updates, pictures, and prompts. Before adding additional functionality to this application, I am taking a step back to learn and apply best testing practices using the Jest testing library framework, to bolster the reliability and efficacy of future development. I am so currently learning TypeScript.
+I'm actively continuing the development of [KIT](https://github.com/i-am-lp/KIT), a way to Keep In Touch with friends near and far through written updates, pictures, and prompts. Before adding additional functionality to this application, I am taking a step back to learn and apply best testing practices using the Jest testing library framework, to bolster the reliability and efficacy of future development. I am also currently learning TypeScript.
 
 🧶 **Personal Interests:**
 
